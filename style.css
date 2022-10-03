@@ -1,0 +1,18 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+}
+#banner {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.banner-content {
+	padding: 50px;
+	background-color: red;
+}
+#banner h1 {
+	font-weight: lighter;
+	font-size: 40px;
+}
